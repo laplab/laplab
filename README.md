@@ -12,7 +12,7 @@ And some other closed-source stuff as well. This was all in C++, but then I [dec
 
 - I work in an NDA High-Frequency Trading company. Here, I am one of the developers of the main Rust server responsible for all trading operations.
 - Open-source Rust, see pinned repositories.
-- Occasional [microcontroller shenanigans](https://laplab.me/posts/family-photos-vs-256-kb-ram/).
+- Occasional [microcontroller shenanigans](https://laplab.me/posts/family-photos-vs-256-kb-ram/) and [other stuff](https://laplab.me/posts/).
 
 ### How to contact me
 
