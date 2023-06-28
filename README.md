@@ -2,7 +2,7 @@ Hi, my name is Nikita, I am a low-level Rust engineer.
 
 ### Stuff I worked on before
 
-- **New Query Engine of [MongoDB](https://github.com/mongodb/mongo).** I worked on a compiler to lower queries into internal bytecode as well as a virtual machine to execute this bytecode. Had a lof of fun with performance optimization and correctness.
+- **New Query Engine of [MongoDB](https://github.com/mongodb/mongo).** I worked on a compiler to lower queries into internal bytecode as well as a virtual machine to execute this bytecode. Had a lot of fun with performance optimization and correctness.
 - **Query Profiler of [ClickHouse](https://github.com/ClickHouse/ClickHouse).** Implemented low-overhead, always-running sampling profiler, showing which lines of code were slow for a particular query. [This feature](https://clickhouse.com/docs/en/operations/optimizing-performance/sampling-query-profiler) is turned on by default on all ClickHouse deployments (cloud and on-premise).
 - **JSON Querying and Binary Storage in [YDB](https://github.com/ydb-platform/ydb).** Added functionality to query JSON documents from SQL. I have also invented a [custom binary format](https://laplab.me/posts/how-binary-json-works-in-ydb/) to store JSON documents to optimize read performance.
 
