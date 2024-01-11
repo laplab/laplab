@@ -26,6 +26,6 @@ After that, I worked in an NDA High-Frequency Trading company for a while. Using
 ### How to contact me
 
 - I am available for hire for short-term consulting and training.
-- The best way to reach me is by email: [hi@laplab.me](mailto:hi@laplab.me). I usually respond within the same day if I am not on a vacation.
+- The best way to reach me is by email: hi@laplab.me. I usually respond within the same day if I am not on a vacation.
 - Memes and experiments can be found on [Mastodon](https://mastodon.social/@laplab).
 - You can also ping me on [LinkedIn](https://www.linkedin.com/in/nikitalapkov/).
