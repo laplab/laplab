@@ -14,10 +14,11 @@ After that, I worked in an NDA High-Frequency Trading company for a while. Using
 
 - I work in [Prisma](https://www.prisma.io/), where I optimize performance of the query engine written in Rust. This engine powers Prisma ORM, which is the most popular TypeScript ORM on the planet.
 - Open-source Rust, see pinned repositories.
-- Occasional [microcontroller shenanigans](https://laplab.me/posts/family-photos-vs-256-kb-ram/) and [other stuff](https://laplab.me/posts/).
+- Occasional [microcontroller](https://laplab.me/posts/family-photos-vs-256-kb-ram/) and [embedded](https://laplab.me/posts/whats-that-touchscreen-in-my-room/) shenanigans, as well as [other stuff](https://laplab.me/posts/).
 
 ### Public speaking
 
+- (EN) [Type-safe and fault-tolerant mesh services with Rust](https://laplab.me/posts/rust-nation-uk-2024/)
 - (EN) [SQL's Inner Workings @ Handmade Seattle 2023](https://laplab.me/posts/handmade-seattle-2023/)
 - (RU) [Introducing JSON Support @ Yandex Database New Features Overview 2020](https://cloud.yandex.ru/ru/events/110)
 - (RU) [ClickHouse Query Profiler @ Highload++ 2019](https://highload.ru/moscow/2019/abstracts/5835)
