@@ -18,8 +18,11 @@ After that, I worked in an NDA High-Frequency Trading company for a while. Using
 
 ### Public speaking
 
-- (EN) [Type-safe and fault-tolerant mesh services with Rust](https://laplab.me/posts/rust-nation-uk-2024/)
-- (EN) [SQL's Inner Workings @ Handmade Seattle 2023](https://laplab.me/posts/handmade-seattle-2023/)
+- [Rhino: Low-latency Key-value Database in Rust @ RustLab 2024](https://laplab.me/posts/rustlab-2024/)
+- [Fast and efficient network protocols in Rust @ EuroRust 2024](https://laplab.me/posts/eurorust-2024/)
+- [Low-Latency Mesh Services Using Actors @ P99 Conf 2024](https://laplab.me/posts/p99-conf-2024/)
+- [Type-safe and fault-tolerant mesh services with Rust @ Rust Nation 2024](https://laplab.me/posts/rust-nation-uk-2024/)
+- [SQL's Inner Workings @ Handmade Seattle 2023](https://laplab.me/posts/handmade-seattle-2023/)
 - (RU) [Introducing JSON Support @ Yandex Database New Features Overview 2020](https://cloud.yandex.ru/ru/events/110)
 - (RU) [ClickHouse Query Profiler @ Highload++ 2019](https://highload.ru/moscow/2019/abstracts/5835)
 - (RU) ClickHouse Query Profiler @ ClickHouse Meetup Novosibirsk 2019 ([part 1](https://youtu.be/FsBWk-hKG3A?si=UvAKQPv5HcPPyil_), [part 2](https://youtu.be/TC3PFAGgSrg?si=BrG9twRnBbllsElj))
