@@ -1,20 +1,14 @@
-Hi, my name is Nikita, I am a low-level Rust engineer.
+Hi, my name is Nikita. I am a low-level Rust engineer.
 
-### Stuff I worked on before
+I work at Cloudflare. My focus is databases and query engines. Previously, I worked on MongoDB, ClickHouse and Yandex Database. I also worked on storage solutions in an NDA high-frequency trading company and performance optimisations in Prisma ORM.
 
-- **[New Query Engine of MongoDB.](https://laplab.me/posts/inside-new-query-engine-of-mongodb/)** I worked on a compiler to lower queries into internal bytecode as well as a virtual machine to execute this bytecode. Had a lot of fun with performance optimization and correctness.
-- **Query Profiler of [ClickHouse](https://github.com/ClickHouse/ClickHouse).** Implemented low-overhead, always-running sampling profiler, showing which lines of code were slow for a particular query. [This feature](https://clickhouse.com/docs/en/operations/optimizing-performance/sampling-query-profiler) is turned on by default on all ClickHouse deployments (cloud and on-premise).
-- **JSON Querying and Binary Storage in [YDB](https://github.com/ydb-platform/ydb).** Added functionality to query JSON documents from SQL. I have also invented a [custom binary format](https://laplab.me/posts/how-binary-json-works-in-ydb/) to store JSON documents to optimize read performance.
+Outside of work, I'm a role-playing games nerd. I run a D&D campaign for my friends and love experimenting with new systems. If you know a cool RPG or an adventure for one, I would be very interested to hear about it!
 
-This was all in C++, but then I [decided to switch to Rust](https://laplab.me/posts/switching-from-cpp-to-rust/).
-
-After that, I worked in an NDA High-Frequency Trading company for a while. Using Rust, I developed custom time-series storage solution for structured data and contributed to a distributed actor system called [Elfo](https://github.com/elfo-rs/elfo).
-
-### Things I do now
-
-- I work in [Prisma](https://www.prisma.io/), where I optimize performance of the query engine written in Rust. This engine powers Prisma ORM, which is the most popular TypeScript ORM on the planet.
-- Open-source Rust, see pinned repositories.
-- Occasional [microcontroller](https://laplab.me/posts/family-photos-vs-256-kb-ram/) and [embedded](https://laplab.me/posts/whats-that-touchscreen-in-my-room/) shenanigans, as well as [other stuff](https://laplab.me/posts/).
+Some articles from my blog you might like:
+- [What's that touchscreen in my room?](https://laplab.me/posts/whats-that-touchscreen-in-my-room/)
+- [Inside New Query Engine of MongoDB](https://laplab.me/posts/inside-new-query-engine-of-mongodb/)
+- [How Binary JSON Works in YDB](https://laplab.me/posts/how-binary-json-works-in-ydb/)
+- [Family Photos vs 256 Kb RAM](https://laplab.me/posts/family-photos-vs-256-kb-ram/)
 
 ### Public speaking
 
@@ -29,6 +23,6 @@ After that, I worked in an NDA High-Frequency Trading company for a while. Using
 
 ### How to contact me
 
-- The best way to reach me is by email: hi@laplab.me. I usually respond within the same day if I am not on a vacation.
+- The best way to reach me is by email: hi@laplab.me. I usually respond within the same day if I'm not on vacation.
 - Memes and experiments can be found on [Mastodon](https://mastodon.social/@laplab).
 - You can also ping me on [LinkedIn](https://www.linkedin.com/in/nikitalapkov/).
